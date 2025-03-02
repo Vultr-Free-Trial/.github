@@ -7,7 +7,7 @@
 
 <ol>
     <li style="list-style-type:decimal;font-size:11pt;font-family:Arial,sans-serif;">
-        <p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Check for Current Promotions</span></strong><span style="font-size:11pt;font-family:Arial,sans-serif;">: Visit Vultr&apos;s</span><a href="https://bit.ly/VultrCredit"><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;</span><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">official promotions page</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;to see if the $300 credit offer is currently available.</span></p>
+        <p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Check for Current Promotions</span></strong><span style="font-size:11pt;font-family:Arial,sans-serif;">: Visit Vultr&apos;s</span><a href="https://bit.ly/3XosEP4"><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;</span><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">official promotions page</span></u></a><span style="font-size:11pt;font-family:Arial,sans-serif;">&nbsp;to see if the $300 credit offer is currently available.</span></p>
     </li>
     <li style="list-style-type:decimal;font-size:11pt;font-family:Arial,sans-serif;">
         <p><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">Sign Up</span></strong><span style="font-size:11pt;font-family:Arial,sans-serif;">: Create a new account using your email address and a secure password.</span></p>
